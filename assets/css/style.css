@@ -1,0 +1,26 @@
+body {
+  background-color: #ffe6e6;
+  margin: 0px;
+}
+
+nav {
+  width: 100%;
+  height: 70px;
+  background-color: #ad88c6;
+}
+
+header {
+  text-align: center;
+}
+
+#bannerImage {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin: 50px 0;
+}
